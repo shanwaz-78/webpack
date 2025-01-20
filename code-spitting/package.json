@@ -1,0 +1,21 @@
+{
+  "name": "code-spitting",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build" : "webpack",
+    "start": "webpack --mode development"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "css-loader": "^7.1.2",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "devDependencies": {}
+}
